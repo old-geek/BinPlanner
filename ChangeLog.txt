@@ -1,5 +1,8 @@
 ChangeLog: BinPlanner
 
+4.25.1022.1019 (2022-10-22)
+. User Manual has been updated
+
 4.25.1017.1553 (2025-10-17)
 . Was possible to allocate an illegal filename and Project Name - this has been fixed
 
