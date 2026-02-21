@@ -1,5 +1,9 @@
 ChangeLog: BinPlanner
 
+4.26.0206.1929 (2026-02-06)
+. Error Logging and Reporting fully functional
+. Support via Email fully implemeneted
+
 4.26.0131.1134 (2026-01-31)
 . Minor bug fixes and performance improvements
 
