@@ -1,5 +1,8 @@
 ChangeLog: BinPlanner
 
+4.26.0131.1134 (2026-01-31)
+. Minor bug fixes and performance improvements
+
 4.25.1022.1019 (2022-10-22)
 . User Manual has been updated
 
