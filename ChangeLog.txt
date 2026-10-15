@@ -1,5 +1,13 @@
 ChangeLog: BinPlanner
 
+4.26.1015.1500 (2026-10-15)
+. Help -> About (all forms) has been moved to top line in Menus
+. Copyright section at bottom of most forms has been extended
+. Copyright (clicking) is linked to The WebSite to display current License terms
+. License word at bottom left of most forms has been changed to Disclaimer
+. Project Identification form Width has increased and elements repositioned
+. Part 1 form Width has increased
+
 4.26.0206.1929 (2026-02-06)
 . Error Logging and Reporting fully functional
 . Support via Email fully implemeneted
